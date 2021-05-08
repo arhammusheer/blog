@@ -1,6 +1,6 @@
-baseURL: "https://example.com"
+baseURL: "https://blog.arhammusheer.me"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Arham Musheer"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
@@ -12,7 +12,7 @@ module:
 paginate: 6
 social:
   twitter: "#"
-  github: "#"
+  github: "https://github.com/arhammusheer"
   instagram: "#"
   linkedin: "#"
   dribbble: "#"
